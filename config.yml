@@ -8,7 +8,7 @@ RuhohSpec: "2.1"
 # Used for things like RSS that need the full URL to a given resource.
 # This DOES NOT affect any of your paths or links in any way.
 # This DOES NOT configure domain mapping. See post2.ruhoh.com for hosting options.
-production_url: "http://sample.com"
+production_url : "http://danmidwood.com"
 
 # Intelligently prepends all urls in the system with the given base_path.
 # This allows you to host your blog in a subdirectory of a given website.
@@ -74,7 +74,7 @@ widgets :
   analytics :
     use : google
     # -- config for google --
-    tracking_id : 'UA-123-12'
+    tracking_id : 'UA-38258673-1'
 
     # -- config for getclicky  --
     # site_id :
@@ -83,7 +83,7 @@ widgets :
     use : disqus
     enable : true
     # -- config for disqus --
-    short_name : jekyllbootstrap # Change This!
+    short_name : danmidwood
 
     # -- config for livefyre --
     # site_id : 123
