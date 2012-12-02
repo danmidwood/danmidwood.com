@@ -1,11 +1,10 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Dan 
+tagline: Adventures
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Dan Midwood 
+  email : dan@danmidwood.com 
+  github : danmidwood 
+  twitter : djmidwood
 
 navigation :
   - archive
