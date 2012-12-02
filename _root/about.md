@@ -1,6 +1,6 @@
 ---
 title : About Me
-description:
+description: Who is Dan Midwood
 ---
 
-All about me =)
+Maybe one day I will know
