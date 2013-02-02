@@ -1,6 +1,13 @@
 ---
 title: The Journey to Kathmandu
 date: '2007-05-10 10:54:17'
+year: 2007
+month: 05
+month_name: May
+day: 10
+hour: 10
+minute: 54
+second: 17
 description: On my way to the Nepali capital
 categories: India
 location: Thamel, Katmandu
@@ -75,3 +82,4 @@ Thamel is a tourist ghetto. It's not Nepal, it's what Nepal thinks tourists want
  [9]: http://en.wikipedia.org/wiki/Thamel
 
  
+

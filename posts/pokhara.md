@@ -1,6 +1,13 @@
 ---
 title: Pokhara
 date: '2007-05-28 11:38:27'
+year: 2007
+month: 05
+month_name: May
+day: 28
+hour: 11
+minute: 38
+second: 27
 description: Nepali city of lakes
 categories: India
 location: Nainital
@@ -27,4 +34,5 @@ Instead I was lazy so I postponed it until the Monday and then the Tuesday. I wa
  [6]: http://www.imdb.com/title/tt0399201/
  [7]: http://www.imdb.com/title/tt0443453/
  [8]: http://www.imdb.com/title/tt0413300/
+
 

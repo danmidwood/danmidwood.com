@@ -1,6 +1,13 @@
 ---
 title: Bodh Gaya
 date: '2007-04-17 09:27:54'
+year: 2007
+month: 04
+month_name: April
+day: 17
+hour: 09
+minute: 27
+second: 54
 description: To become enlightened
 categories: India
 location: Darjeeling
@@ -22,3 +29,4 @@ I got a bus from Bodh Gaya to [Patna][8] (4 hours), train from Patna to [New Jal
  [8]: http://en.wikipedia.org/wiki/Patna
  [9]: http://en.wikipedia.org/wiki/New_Jalpaiguri
  [10]: http://en.wikipedia.org/wiki/Siliguri
+

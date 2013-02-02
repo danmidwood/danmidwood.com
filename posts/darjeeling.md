@@ -1,6 +1,13 @@
 ---
 title: Darjeeling
 date: '2007-04-17 10:06:22'
+year: 2007
+month: 04
+month_name: April
+day: 17
+hour: 10
+minute: 06
+second: 22
 description: Where the good tea grows
 categories: India
 location: Darjeeling
@@ -29,3 +36,4 @@ I'm semi recovered now (enough to enable me to leave the hotel) although still n
  [3]: http://en.wikipedia.org/wiki/Himalayas
  [4]: http://en.wikipedia.org/wiki/Siliguri
  [5]: http://www.imdb.com/title/tt0419946/
+

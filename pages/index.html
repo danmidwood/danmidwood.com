@@ -1,24 +1,18 @@
 ---
-title: Minimum Viable Blog
-description: Permanent Minimum Viable Blog?
+title: In which Dan writes
+description: A blog about things
 ---
 
-
-<h2>Permanently Minimum?</h2>
-<p>Let's hope not. My old India blog posts have been imported, a few others discarded. Here we go.</p>
-
-
-
-<h2>Latest Posts</h2>
+<h2>What I've been up to lately:</h2>
 
 {{# posts_latest }}
 <div class="post">
-  <h3 class="title"><a href="{{url}}">{{title}}</a> <span class="date">{{ date }}</span></h3>
+  <h3 class="title"><a href="{{url}}">{{title}}</a>, <span class="date">{{month_name}} {{day}}, {{year}}</span></h3>
 
   {{{ summary }}}
 
   <div class="more">
-    <a href="{{url}}" class="btn">read more..</a>
+    <a href="{{url}}">read more..</a>
   </div>
 </div>
 {{/ posts_latest }}

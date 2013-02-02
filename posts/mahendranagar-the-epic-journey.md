@@ -1,6 +1,13 @@
 ---
 title: Mahendranagar, The Epic Journey
 date: '2007-05-28 12:38:52'
+year: 2007
+month: 05
+month_name: May
+day: 28
+hour: 12
+minute: 38
+second: 52
 description: Bus vs Maoists
 categories: India
 locaion: Nainital
@@ -71,4 +78,5 @@ I woke again at 5am and, at 6am, went to find [Malu Pothi][8].
  [6]: http://en.wikipedia.org/wiki/Kathmandu
  [7]: http://www.nepaltourismdirectory.com/nepal_travel_destination.php?id=7&did=12&amp%20;title=Nepal%20National%20parks
  [8]: http://www.wwf.org.uk/adoption/index.asp#Malu%20Pothi
+
 

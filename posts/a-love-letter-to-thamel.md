@@ -1,6 +1,13 @@
 ---
 title: A love letter to Thamel
 date: '2007-05-10 11:45:05'
+year: 2007
+month: 05
+month_name: May
+day: 10
+hour: 11
+minute: 45
+second: 05
 description: In where I found myself
 categories: India
 location: Thamel, Kathmandu
@@ -42,3 +49,4 @@ Dan ( hearts ) Thamel
 
  [1]: http://en.wikipedia.org/wiki/Thamel
  [2]: http://en.wikipedia.org/wiki/Nepal
+

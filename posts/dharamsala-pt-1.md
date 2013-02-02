@@ -1,6 +1,13 @@
 ---
 title: Dharamsala pt.1
 date: '2007-06-15 09:45:11'
+year: 2007
+month: 06
+month_name: June
+day: 15
+hour: 09
+minute: 45
+second: 11
 description: Entrance to Dharamsala
 categories: India
 location: Dharamsala
@@ -35,3 +42,4 @@ Here the author ends this short chapter, and begins another, prosecuting the sam
  [4]: http://en.wikipedia.org/wiki/Dhaba
  [5]: http://en.wikipedia.org/wiki/Thali
  [6]: http://en.wikipedia.org/wiki/Dal_Lake_(Himachal_Pradesh)
+

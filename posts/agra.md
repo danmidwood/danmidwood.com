@@ -1,6 +1,13 @@
 ---
 title: Agra
 date: '2007-04-03 13:14:24'
+year: 2007
+month: 04
+month_name: April
+day: 03
+hour: 13
+minute: 14
+second: 24
 description: Home of the Taj Mahal
 categories: India
 location: Agra
@@ -28,3 +35,4 @@ The current plan has me going From Darjeeling to Nepal, traveling westward, duck
  [6]: http://en.wikipedia.org/wiki/Gautama_Buddha
  [7]: http://en.wikipedia.org/wiki/West_bengal
  [8]: http://en.wikipedia.org/wiki/Darjeeling
+

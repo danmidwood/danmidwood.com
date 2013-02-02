@@ -1,6 +1,13 @@
 ---
 title: Manali
 date: '2007-06-07 13:23:33'
+year: 2007
+month: 06
+month_name: June
+day: 07
+hour: 13
+minute: 23
+second: 33
 description: In which I drink lots of apple juice and throw up
 categories: India
 location: Manali
@@ -45,3 +52,4 @@ Enjoy the pictures.
  [4]: http://en.wikipedia.org/wiki/Charas
  [5]: http://www.imdb.com/title/tt0120735/
  [6]: http://www.leedsfestival.com
+

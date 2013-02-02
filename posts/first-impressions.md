@@ -1,6 +1,13 @@
 ---
 title: First Impressions
 date: '2007-03-30 10:44:36'
+year: 2007
+month: 03
+month_name: March
+day: 30
+hour: 10
+minute: 44
+second: 36
 description: First impressions
 categories: India
 Location: Paharganj, New Delhi
@@ -41,3 +48,4 @@ Beautiful views from the window
  [2]: http://en.wikipedia.org/wiki/Kashmir
  [3]: http://dl.dropbox.com/u/16860185/travelpics/20070330-174039.JPG
  [4]: http://dl.dropbox.com/u/16860185/travelpics/20070330-174057.JPG
+

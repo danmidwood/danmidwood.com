@@ -1,6 +1,13 @@
 ---
 title: Varanasi
 date: '2007-04-17 09:01:58'
+year: 2007
+month: 04
+month_name: April
+day: 17
+hour: 09
+minute: 01
+second: 58
 description: On the river of the holy river
 categories: India
 location: Darjeeling

@@ -1,6 +1,13 @@
 ---
 title: Hunting tigers by bicycle
 date: '2007-05-31 07:07:04'
+year: 2007
+month: 05
+month_name: May
+day: 31
+hour: 07
+minute: 07
+second: 04
 description: An exhausting trip around Sukla Phanta by bicycle
 categories: India
 location: Shimla
@@ -68,3 +75,4 @@ I didn't see Malu or any tigers or any elephants or any rhinos or any crocodiles
  
  [1]: http://en.wikipedia.org/wiki/Sukla_Phanta_Wildlife_Reserve
  [2]: http://www.wwf.org.uk/adoption/index.asp#Malu%20Pothi
+

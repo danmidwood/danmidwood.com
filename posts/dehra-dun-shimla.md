@@ -1,6 +1,13 @@
 ---
 title: Dehra Dun & Shimla
 date: '2007-06-05 08:54:33'
+year: 2007
+month: 06
+month_name: June
+day: 05
+hour: 08
+minute: 54
+second: 33
 description: In which I laze and sleep
 categories: India
 location: Manali
@@ -33,3 +40,4 @@ By the end of the night I wasn't feeling too well and the journey was pretty hor
  [4]: http://en.wikipedia.org/wiki/Shimla
  [5]: http://en.wikipedia.org/wiki/Mango
  [6]: http://en.wikipedia.org/wiki/Manali,_Himachal_Pradesh
+

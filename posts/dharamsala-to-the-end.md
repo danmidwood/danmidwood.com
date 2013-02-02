@@ -1,6 +1,13 @@
 ---
 title: Dharamsala to the end
 date: '2007-06-22 14:45:03'
+year: 2007
+month: 06
+month_name: June
+day: 22
+hour: 14
+minute: 45
+second: 03
 description: Leaving Dharamsala and leaving India
 categories: India
 location: Home, Yorkshire

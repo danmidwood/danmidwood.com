@@ -1,6 +1,13 @@
 ---
 title: The Journey From Darjeeling
 date: '2007-05-01 10:24:01'
+year: 2007
+month: 05
+month_name: May
+day: 01
+hour: 10
+minute: 24
+second: 01
 description: My plans as I move onwards
 categories: India
 location: Darjeeling

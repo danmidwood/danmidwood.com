@@ -1,6 +1,13 @@
 ---
 title: Nainital
 date: '2007-05-31 07:43:23'
+year: 2007
+month: 05
+month_name: May
+day: 31
+hour: 07
+minute: 43
+second: 23
 description: Back into India for the lakes in the hill
 categories: India
 location: Shimla
