@@ -1,14 +1,11 @@
-title : Dan 
+title : In which Dan writes?
 tagline: Adventures
 author :
-  name : Dan Midwood 
-  email : dan@danmidwood.com 
-  github : danmidwood 
+  name : Dan Midwood
+  email : dan@danmidwood.com
+  github : danmidwood
   twitter : djmidwood
 
 navigation :
-  - archive
-  - tags
-  - categories
-  - pages
-  - about
+  - archive.html
+  - about.md
