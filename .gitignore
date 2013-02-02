@@ -1,2 +1,7 @@
 compiled/*
 .DS_Store
+*~
+\#*#
+stylesheets/
+media/
+javascripts/

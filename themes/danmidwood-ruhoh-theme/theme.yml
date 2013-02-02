@@ -1,0 +1,22 @@
+{
+  "stylesheets" : {
+    "default" : [
+      "bootstrap.css"
+    ],
+   
+    "widgets" : {
+      "google_prettify" : "twitter-bootstrap.css"
+    }
+    
+  },
+
+  "javascripts" : {
+    "default" : [
+    ]
+  },
+  
+  "manifest" : {
+    "author" : "Dan Midwood",
+    "website" : "http://danmidwood.com"
+  }
+}
