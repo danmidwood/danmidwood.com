@@ -34,7 +34,7 @@ _root:
 posts:
   sort: ["date", "desc"]
   permalink: "/:categories/:title/"
-  summary_lines: 20
+  summary_lines: 1
   latest: 3
   rss:
     enable: true
