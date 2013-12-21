@@ -25,7 +25,7 @@ danmidwood-ruhoh-theme :
   use : "theme"
 
 _root:
-  summary_lines: 20
+  summary_lines: 5
   rss:
     enable: false
   paginator:
@@ -34,8 +34,8 @@ _root:
 posts:
   sort: ["date", "desc"]
   permalink: "/:categories/:title/"
-  summary_lines: 20
-  latest: 5
+  summary_lines: 5
+  latest: 3
   rss:
     enable: true
     limit: 5
