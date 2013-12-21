@@ -4,3 +4,4 @@ compiled/*
 \#*#
 stylesheets/
 javascripts/
+.ruby-version
