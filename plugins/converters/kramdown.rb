@@ -6,7 +6,6 @@ class Ruhoh
       end
       def self.convert(content)
         require 'kramdown'
-        puts "hello from Kramdown"
         Kramdown::Document.new(content).to_html
       end
     end
