@@ -1,14 +1,15 @@
 source "https://rubygems.org"
 gem 'psych', "~> 1.3"
 gem 'ruhoh', "~> 2"
+gem 'kramdown', "1.3.0"
 
 # To enable asset packaging and processing via sprockets:
 #
 #   1. Update your config.yml file:
-#  
+#
 #      asset_pipeline:
 #        enable: true
-#  
+#
 #   2. Uncomment the following two lines (sprockets + sass)
 #
 # Sass is for CSS: http://sass-lang.com/
