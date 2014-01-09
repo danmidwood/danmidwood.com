@@ -2,6 +2,5 @@ compiled/*
 .DS_Store
 *~
 \#*#
-stylesheets/
 javascripts/
 .ruby-version
