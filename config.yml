@@ -83,7 +83,7 @@ widgets :
     use : disqus
     enable : true
     # -- config for disqus --
-    short_name : jekyllbootstrap # Change This!
+    short_name : danmidwood
 
     # -- config for livefyre --
     # site_id : 123
