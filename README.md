@@ -1,3 +1,3 @@
 # My website / blog
 
-Hosted on ruhoh, view it at danmidwood.com
+Built with Jekyll and hosted on GitHub pages, view it at danmidwood.com

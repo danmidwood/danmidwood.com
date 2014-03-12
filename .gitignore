@@ -4,3 +4,4 @@ compiled/*
 \#*#
 javascripts/
 .ruby-version
+_site
