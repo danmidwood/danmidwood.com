@@ -1,31 +1,10 @@
 ---
 layout : default
 ---
-<div class="page-header">
-  <h1>{{ page.title }}</h1>
 
-  <div class="date">published <span>{{page.month_name}} {{page.day}}, {{page.year}}</span></div>
-</div>
-
-<div class="row">
-  <div class="span8">
-    {{ content }}
-    <hr>
-    <div id="disqus_thread"></div>
-    <script>
-      var disqus_developer = 1;
-      var disqus_shortname = 'danmidwood'; // required: replace example with your forum shortname
-      /* * * DON'T EDIT BELOW THIS LINE * * */
-      (function() {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-      })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments.</a></noscript>
-  </div>
-  <div class="span4">
-    Hey, I'm Dan
-  </div>
-
+<div class="span8">
+  {% include post_header.html %}
+  {{ content }}
+  <hr>
+  {% include comments.html %}
 </div>

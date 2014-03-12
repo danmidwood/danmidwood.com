@@ -5,13 +5,6 @@ longitude: 4.598477
 latitude: -74.070342
 categories: [US, air travel]
 date:   2013-12-16 13:28:50
-year: 2013
-month: 12
-month_name: December
-day: 16
-hour: 13
-minute: 28
-second: 50
 description: A story about owning less
 tags: [minimalism, travel]
 ---

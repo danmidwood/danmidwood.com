@@ -1,14 +1,7 @@
 ---
 title: Grendelbot
 date: '2013-12-25'
-year: 2013
 layout: post
-month: 12
-month_name: December
-day: 25
-hour: 15
-minute: 33
-second: 00
 description: John Gardner's Grendel on Twitter
 tags: [programming, twitter, clojure, reading]
 ---

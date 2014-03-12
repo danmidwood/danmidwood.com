@@ -2,13 +2,6 @@
 title: Don't know where I'm going
 layout: post
 date: '2007-03-27 16:13:15'
-year: 2007
-month: 03
-month_name: March
-day: 27
-hour: 16
-minute: 13
-second: 15
 description: First checkin on the route to India
 categories: India
 location: Stamford Green, London

@@ -1,17 +1,8 @@
 ---
 layout: post
 title:  "Why I'm Not Taking Photographs"
-longitude:
-latitude:
 categories: [minimalism]
 date:   2013-12-19 09:28:50
-year: 2013
-month: 12
-month_name: December
-day: 19
-hour: 09
-minute: 28
-second: 50
 tags: [minimalism, travel]
 ---
 

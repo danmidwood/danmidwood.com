@@ -1,11 +1,7 @@
 ---
 title: Enter stage left new website
 date: '2013-02-02'
-year: 2013
 layout: post
-month: 02
-month_name: February
-day: 02
 description: What have I been up to?
 categories:
 ---

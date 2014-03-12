@@ -1,14 +1,7 @@
 ---
 title: Leaving Mind Candy and other adventures
 date: '2013-12-20'
-year: 2013
 layout: post
-month: 12
-month_name: December
-day: 20
-hour: 21
-minute: 30
-second: 00
 description: Working on my own projects and traveling the world
 tags: []
 ---

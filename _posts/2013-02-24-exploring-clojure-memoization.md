@@ -1,14 +1,7 @@
 ---
 title: Exploring Clojure Memoization
 date: '2013-02-24'
-year: 2013
 layout: post
-month: 02
-month_name: February
-day: 24
-hour: 16
-minute: 00
-second: 00
 description: In which Clojure's memoize function is put through its paces
 categories: Clojure
 ---
@@ -33,7 +26,7 @@ Here is a simple addition function named `add` that accepts many arguments and a
 (defn add [& args]
   (print ".")
   (apply + args))
- 
+
 (def add-memoized
   (memoize add))
 ```
@@ -54,7 +47,7 @@ The first function call calculates the result to be 6. In the second function ca
 
 That was easy. Let's try something a bit more challenging, something like memoization of recursive functions.
 
-Here's a standard recursive implementation of a Fibonacci number calculator. 
+Here's a standard recursive implementation of a Fibonacci number calculator.
 
 ```clojure
 (defn fib [n]
@@ -64,7 +57,7 @@ Here's a standard recursive implementation of a Fibonacci number calculator.
     (+ (fib (- n 1)) (fib (- n 2)))))
 ```
 
-Other (better) algorithms are available for calculating Fibonacci numbers. This one is inefficient and will branch on each recursion, running the same calculations multiple times, but these characteristics make it ideal for our demonstration. 
+Other (better) algorithms are available for calculating Fibonacci numbers. This one is inefficient and will branch on each recursion, running the same calculations multiple times, but these characteristics make it ideal for our demonstration.
 Again, our print dot is included to highlight how many times the function body is entered.
 
 ```clojure
@@ -104,7 +97,7 @@ example.memo> (fib-memoized 9)
 
 That didn't work quite right. Our `fib-memoized` top level call _is_ memoized, and we can see that by the second `(fib-memoized 10)` circumventing the function body to immediately return the result. But our intermediate function calls are not memoized.
 
-To discover why, let's see what we have so far. There is a non memoized function `fib` that recursively calls itself, and our memoized function `fib-memoized` that is recursively calling, not itself, but the non-memoized `fib`. 
+To discover why, let's see what we have so far. There is a non memoized function `fib` that recursively calls itself, and our memoized function `fib-memoized` that is recursively calling, not itself, but the non-memoized `fib`.
 
 We want out memoized function to call itself, one option is to retain the fib symbol for our memoized function.
 
@@ -145,7 +138,7 @@ example.memo> (fib 9)
 
 Here we can see that the call to find the tenth Fibonacci number entered the fib body only eleven times, once each for numbers zero to ten, with no superflous calculations made. The subsequent call to find the tenth number in the sequence doesn't enter the function body at all. And this time the intermediate results have been memoized and can be reused to calculate other numbers in the series, as shown by the calculation of the 9th number in the sequence also not entering the function body.
 
-While this is now achieving everything we hoped for, it isn't as clear as we might like, with the extra verbosity introduced by the explicit `fn` and `memoize` contributing to this. It would be nice if there was somthing as simple and intuitive as the standard `defn` that we could use. 
+While this is now achieving everything we hoped for, it isn't as clear as we might like, with the extra verbosity introduced by the explicit `fn` and `memoize` contributing to this. It would be nice if there was somthing as simple and intuitive as the standard `defn` that we could use.
 
 There isn't, but Clojure is a Lisp, and with Lisps we can just create it. So, let's do that.
 
@@ -156,7 +149,7 @@ Here is a macro named `defn-memo` that accepts a symbol for the name as well as 
   `(def ~name (memoize (fn ~body))))
 ```
 
-This matches standard function definition that is available with `defn` but evaluates straight to a memoized function that can also handle recursion. 
+This matches standard function definition that is available with `defn` but evaluates straight to a memoized function that can also handle recursion.
 Here is our `fib` function as implemented using the macro.
 
 ```clojure
@@ -170,4 +163,3 @@ Here is our `fib` function as implemented using the macro.
 There are limitations in what we've covered above, this macro would require extra work in order to be able to handle `recur`. But that's a problem for another day.
 
 Final thought. Remember that memoization is cool but it isn't free. Use it wisely.
-

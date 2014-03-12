@@ -1,14 +1,6 @@
 ---
 title: All of my things in the world
-date: '2014-02-21'
-year: 2013
 layout: post
-month: 02
-month_name: February
-day: 21
-hour: 22
-minute: 14
-second: 00
 description: A story about owning less
 tags: [minimalism, travel]
 ---

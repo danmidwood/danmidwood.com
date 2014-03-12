@@ -3,10 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-  {{# page.description }}
-  <!--   <meta name="description" content="{{ . }}"> -->
-  <!-- {{/ page.description }} -->
-    <meta name="author" content="{{ data.author.name }}">
+    <meta name="description" content="Dan's blog">
+    <meta name="author" content="Dan Midwood">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
     <!--[if lt IE 9]>
@@ -14,8 +12,6 @@
     <![endif]-->
 
     <link rel="stylesheet" href="/css/syntax.css">
-
-    <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/bootstrap.css">
 
 
@@ -29,38 +25,13 @@
 
   <body>
 
-    <div class="navbar">
-      <div class="navbar-inner">
-        <div class="container">
-          <a class="brand" href="/">{{ site.name }}</a>
-          <ul class="nav">
-            <!-- {{# data.navigation?to__root }} -->
-            <!--   {{> pages_list }} -->
-            <!-- {{/ data.navigation?to__root }} -->
-          </ul>
-        </div>
-      </div>
-    </div>
+   {% include navbar.html %}
+<div class="container">
+   {% include body.html %}
 
-    <div class="container">
-
-      <div class="content">
-        {{ content }}
-      </div>
-
-      <footer>
-        <p>&copy; Dan Midwood 2014
-        </p>
-      </footer>
-
-    </div>
-
+   {% include footer.html %}
+</div>
     <!-- {{{ widgets.google_prettify }}} -->
-   <script>
-     var _gaq=[['_setAccount','UA-38258673-1],['_trackPageview']];
-     (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-     g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-     s.parentNode.insertBefore(g,s)}(document,'script'));
-   </script>
+    {% include google_analytics.html %}
   </body>
 </html>

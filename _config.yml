@@ -1,3 +1,5 @@
 name: Dan Midwood
 markdown: redcarpet
 pygments: true
+author: Dan Midwood
+permalink: /content/:title

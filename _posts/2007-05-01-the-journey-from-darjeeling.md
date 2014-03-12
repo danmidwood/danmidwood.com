@@ -1,32 +1,25 @@
 ---
 title: The Journey From Darjeeling
 date: '2007-05-01 10:24:01'
-year: 2007
 layout: post
-month: 05
-month_name: May
-day: 01
-hour: 10
-minute: 24
-second: 01
 description: My plans as I move onwards
 categories: India
 location: Darjeeling
 ---
-I've been in [Darjeeling][1] three weeks now so I figure it should be time to move on. I think I will leave here tomorrow (May 2) and head towards [Kalimpong][2].  
-  
-Kalimpong, also in the hills, has apparently some of the best Indian cheese. I'll keep you posted on that.  
-  
-From Kalimpong I will go to Janakpur in Eastern [Nepal][3] (crossing the border at Panitanki (India)/Kakarbhitta (Nepal)) then on to the Nepalest capital of Kathmandu.  
-  
-I may stay in [Kathmandu][4] for a bit and then move South West to [Royal Chitwan National Park][5], then back North West to [Pokhara][6], then South West to [Lumbini][7] (the birthplace of [Buddha][8]) then staying in the South of Nepal moving westward through [Maoist][9] country (for info on the situation see [here][10]) to [Royal Bardia National Park][11] and the to [Mahendranagar][12] on the Western border. I will visit [Malu Pothi][13], Jade's adopted tiger, at the nearby [Royal Sukla Phanta Wildlife Reserve][14] and then cross the border back to India to Banbassa in [Uttaranchal][15] (or Uttarakhand it seems to be now) and then move onto a place call [Nainital][16].  
-  
-Travel through Nepal will be by bus (with maybe a small portion by Elephant) and I reckon it will take at least three weeks, depositing me back in India by the end of May or beginning of June.  
-  
-I'll have a few weeks in Utteranchal (Nainital, [Haridwar][17], [Dehra Dun][18]) and [Himachal Pradesh][19] ([Shimla][20], [Dharamsala and McLeod Ganj][21], [Manali][22]) and then back to [Delhi][23] and then home.  
-  
- 
- 
+I've been in [Darjeeling][1] three weeks now so I figure it should be time to move on. I think I will leave here tomorrow (May 2) and head towards [Kalimpong][2].
+
+Kalimpong, also in the hills, has apparently some of the best Indian cheese. I'll keep you posted on that.
+
+From Kalimpong I will go to Janakpur in Eastern [Nepal][3] (crossing the border at Panitanki (India)/Kakarbhitta (Nepal)) then on to the Nepalest capital of Kathmandu.
+
+I may stay in [Kathmandu][4] for a bit and then move South West to [Royal Chitwan National Park][5], then back North West to [Pokhara][6], then South West to [Lumbini][7] (the birthplace of [Buddha][8]) then staying in the South of Nepal moving westward through [Maoist][9] country (for info on the situation see [here][10]) to [Royal Bardia National Park][11] and the to [Mahendranagar][12] on the Western border. I will visit [Malu Pothi][13], Jade's adopted tiger, at the nearby [Royal Sukla Phanta Wildlife Reserve][14] and then cross the border back to India to Banbassa in [Uttaranchal][15] (or Uttarakhand it seems to be now) and then move onto a place call [Nainital][16].
+
+Travel through Nepal will be by bus (with maybe a small portion by Elephant) and I reckon it will take at least three weeks, depositing me back in India by the end of May or beginning of June.
+
+I'll have a few weeks in Utteranchal (Nainital, [Haridwar][17], [Dehra Dun][18]) and [Himachal Pradesh][19] ([Shimla][20], [Dharamsala and McLeod Ganj][21], [Manali][22]) and then back to [Delhi][23] and then home.
+
+
+
  [1]: http://en.wikipedia.org/wiki/Darjeeling
  [2]: http://en.wikipedia.org/wiki/Kalimpong
  [3]: http://en.wikipedia.org/wiki/Nepal
