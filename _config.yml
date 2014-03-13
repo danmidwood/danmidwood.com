@@ -1,7 +1,7 @@
 name: Dan Midwood
 markdown: redcarpet
 pygments: true
-permalink: /content/:title
+permalink: /content/:year/:month/:day/:title.html
 author:
   name: Dan Midwood
   darkest-timeline:
