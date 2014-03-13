@@ -1,5 +1,17 @@
 name: Dan Midwood
 markdown: redcarpet
 pygments: true
-author: Dan Midwood
 permalink: /content/:title
+author:
+  name: Dan Midwood
+  darkest-timeline:
+    name: Darkest Timeline Studios
+    link: http://darkesttimelinestudios.com/
+    github: darkesttimeline
+  links:
+    twitter: djmidwood
+    github: danmidwood
+    npmjs: drex
+    stackoverflow: 119768/dan-midwood
+    facebook: danmidwood
+    skype: danmidwood
