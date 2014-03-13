@@ -5136,3 +5136,8 @@ a.badge:hover {
 body {
   background-image: url(/assets/pattern-7j7s.png);
 }
+.sidebar > div {
+    padding: 0px 2px;
+    border: 1px dashed #962a02;
+    margin: 10px 0px;
+}
