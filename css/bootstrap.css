@@ -220,6 +220,23 @@ a:hover {
   color: #962a02;
   text-decoration: underline;
 }
+.authorlinks {
+  width: 150px;
+}
+
+.authorlinks > li {
+  display: inline-table;
+  list-style-type: none;
+  margin: 5px;
+}
+.authorlinks > li > a {
+  color: black;
+}
+.authorlinks > li > a:hover {
+  color: #962a02;
+}
+
+
 .img-rounded {
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
