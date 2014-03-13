@@ -33,6 +33,3 @@ I decided to leave London. But I hadn't decided where exactly to leave to yet, I
 But then, I thought a bit more, and why go to one place when I can go to many? And soon after I booked a flight to Bogota, Colombia. I didn't have much knowledge of Colombia, just a plan to turn up and discover it. And then a greater plan to head south.
 
 My intentions now are to spend split between travel and work, ~one month traveling, then one month stationary and then repeat, until the end. As I write this I'm a few days from leaving Colombia, I have an apartment booked in Quito, Ecuador right by a [5.5 km² park](http://www.getquitoecuador.com/quito-cultural-attractions/quito_metropolitan_park.html "Quito Metropolitan Park") and just in time for Christmas, New Years and a month of coding, cooking and running.
-
-- - -
-btw: I've started a [South America blog](http://sablog.danmidwood.com/ "South America Travel Blog") to document my travels, it's aimed at a family audience so won't be techy.
