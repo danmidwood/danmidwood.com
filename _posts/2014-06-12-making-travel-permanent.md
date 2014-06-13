@@ -28,9 +28,9 @@ Later, I applied for a small job to write an open source library for a company's
 
 Buoyed by that sort-of-win, I continued to apply. The next job I took was another open source library, low pay but better than the previous job, and so on. Each contract earned feedback on the site, making it easier to market myself greater success without the need to compromise on money.
 
-### Time passes.., a few months later
+### Time passes, a few months later
 
-I work occasionally, taking on contracts when a job appeals to me, I'm in a good position with a place to stay, food, sunshine and money enough to socialise. And, while I'm not earning a lot money, I'm earning more than I'm spending, I have a nice amount of free time, and I'm “profitable”.
+I've been working occasionally, taking on contracts when a job appeals to me, I'm in a good position with a place to stay, food, sunshine and money enough to socialise. And, while I'm not earning a lot money, I'm earning more than I'm spending, I have a nice amount of free time, I'm “profitable”.
 
 As I travel and talk, I've had a few conversations about what I'm doing and during these I've mentioned that I'd like to travel without an end. But each time I said it there was always a little bit of doubt about whether it was really, actually possible. Now there is no doubt left about that.
 
