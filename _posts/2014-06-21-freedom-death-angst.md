@@ -67,7 +67,7 @@ I pulled out three tasks and those are big, medium to long term tasks that I wan
 * If I skip a day, it doesn't matter.
 * If I'm working (employed) I can ignore the above three rules.
 
-If I tire of the big task one day, I have a backlog of smaller tasks that I can pick from. Those are mostly "relaxing" work, reading, consuming rather than producing.
+After working on the single task through the day, if I need a break then I have a backlog of smaller tasks that I can pick from. Those are mostly "relaxing" work, reading, consuming rather than producing.
 
 
 ## Addendum
