@@ -1,5 +1,5 @@
 ---
-title: Freedome, Death, Angst
+title: Freedom, Death, Angst
 layout: post
 description:
 tags: [work, travel, procrastination, motivation]
