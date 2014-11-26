@@ -164,11 +164,11 @@ Kill backwards with `paredit-splice-sexp-killing-backward`, bound to `M-<up>`.
 ><br />
 >###### Splice and kill backwards
 
-And kill forwards with `paredit-splice-sexp-killing-backward` that is bound to `M-<down>`.
+And kill forwards with `paredit-splice-sexp-killing-forward` that is bound to `M-<down>`.
 
->![Paredit's splice killing backward](/assets/animated-paredit/paredit-splice-killing-backward.gif)
+>![Paredit's splice killing forward](/assets/animated-paredit/paredit-splice-killing-forward.gif)
 ><br />
->###### Splice and kill backwards
+>###### Splice and kill forwards
 
 And there is a no kill variant `paredit-splice-sexp` bound to `M-s`, shown here splicing the quotes off a string.
 
