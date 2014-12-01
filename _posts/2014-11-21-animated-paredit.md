@@ -207,3 +207,6 @@ The description from the function docs is:
 >###### Convoluting an expression
 
 I'm still waiting for the day when I recognise a use for this one.
+
+----
+Discussion on [Lobsters](https://lobste.rs/s/yjohyw/the_animated_guide_to_paredit), [Hacker News](https://news.ycombinator.com/item?id=8662449) and [Reddit](http://www.reddit.com/r/emacs/comments/2ngqi6/the_animated_guide_to_paredit/)
