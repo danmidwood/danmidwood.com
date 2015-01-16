@@ -2,7 +2,7 @@
 title: The Animated Guide to Paredit
 layout: post
 description: An animated guide to Paredit, showing the capabilities and the functions in action
-tags: [paredit, emacs, gifs]
+tags: [paredit, guide, introduction, animated, emacs, gifs]
 ---
 
 Paredit is great, it brings structural editing to lisps, maintaining the syntactical correctness of your code. I’ve been a fan for a long time, but still was only using a small subset of the functionality available, even afer spending time reading the manual and paper printing out cheat sheets.
